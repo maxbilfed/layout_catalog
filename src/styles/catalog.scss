@@ -2,7 +2,7 @@
   --column-count: 1;
 
   display: grid;
-  grid-gap: 48px, 46px;
+  grid-gap: 48px 46px;
   grid-template-columns: repeat(var(--column-count), 1fr);
 
   padding: 50px 40px;
